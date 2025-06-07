@@ -1,2 +1,2 @@
 <?php
-echo "Hello from PHP-FPM via Docker!";
+echo "Fajar Wirya Putra";
